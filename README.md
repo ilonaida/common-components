@@ -1,2 +1,2 @@
 # common-components
-wecoldalak leggyakoribb elemei
+weboldalak leggyakoribb elemei
